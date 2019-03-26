@@ -60,7 +60,7 @@ __5. Comments__
 
 YES:
 
-x = x + 1                 # Increment x
+x = x + 1       # Increment x
 
 __6. Naming__
 * Function and variable names should be lowercase, with underscores between the words as necessary to improve readability.
@@ -70,7 +70,7 @@ YES:
 
 mean_trip_time = []
 
-NO:
+PROBABLY NOT:
 
 mtt = []
 
