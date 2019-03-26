@@ -59,8 +59,9 @@ __5. Comments__
 * Start comments with # and a single space.
 
 YES:
-
-x = x + 1       # Increment x
+<pre>
+x = x + 1          # Increment x
+</pre>
 
 __6. Naming__
 * Function and variable names should be lowercase, with underscores between the words as necessary to improve readability.
