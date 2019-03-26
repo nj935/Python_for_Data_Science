@@ -1,6 +1,6 @@
 # Writing clean code based on PEP8 guidelines
 
-Clear and well-written code is important. The main set of conventions for Python, written by Guido Van Rossum, is called (PEP8)[https://www.python.org/dev/peps/pep-0008/#prescriptive-naming-conventions].
+Clear and well-written code is important. The main set of conventions for Python, written by Guido Van Rossum, is called [PEP8](https://www.python.org/dev/peps/pep-0008/#prescriptive-naming-conventions).
 
 For our course, remember the following:
 
