@@ -6,60 +6,59 @@ For our course, remember the following:
 
 __1. Maximum line length__
 * Lines of code shouldn't exceed 79 characters.
-* To comply with this, break code into several lines by wrapping expressions in parentheses (example here).
+* To comply with this, break code into several lines by wrapping expressions in parentheses.
 
 __2. Imports__
 * Import libraries at the top of your notebook. Use a new line for each import.
 * Learn the conventional shortened names for common libraries (eg. import pandas as pd).
 
+<pre>
 YES:
-
 import sys
-
 import os
+</pre>
 
-
+<pre>
 NO: 
-
 import sys, os
-
+</pre>
 
 __3. Declaring strings__
 * Python lets you use single quotes or double quotes around strings; pick one option and stick to it.
 
+<pre>
 YES:
-
 string1 = 'I love Python'
-
 string2 = 'not R'
+</pre>
 
+<pre>
 NO:
-
 string1 = "I love Python"
-
 string2 = 'not R'
+</pre>
 
 __4. Whitespace__
 * Use spaces between operators
 * Be consistent and don't add redundant whitespace.
 
+<pre>
 YES:
-
 a = b + c
-
 spam(ham[1], {eggs: 2})
+</pre>
 
+<pre>
 NO:
-
 a=b+c
-
 spam( ham[ 1 ], { eggs: 2 } )
+</pre>
 
 __5. Comments__
 * Start comments with # and a single space.
 
-YES:
 <pre>
+YES:
 x = x + 1          # Increment x
 </pre>
 
