@@ -4,11 +4,11 @@ Clear and well-written code is important. The main set of conventions for Python
 
 For our course, remember the following:
 
-1. Maximum line length
+__1. Maximum line length__
 * Lines of code shouldn't exceed 79 characters.
 * To comply with this, break code into several lines by wrapping expressions in parentheses (example here).
 
-3. Imports
+__2. Imports__
 * Import libraries at the top of your notebook. Use a new line for each import.
 * Learn the conventional shortened names for common libraries (eg. import pandas as pd).
 
@@ -16,10 +16,12 @@ YES:
 import sys
 import os
 
+
 NO: 
 import sys, os
 
-4. Declaring strings
+
+__3. Declaring strings__
 * Python lets you use single quotes or double quotes around strings; pick one option and stick to it.
 
 YES:
@@ -30,7 +32,7 @@ NO:
 string1 = "I love Python"
 string2 = 'not R'
 
-5. Whitespace
+__4. Whitespace__
 * Use spaces between operators
 * Be consistent and don't add redundant whitespace.
 
@@ -42,13 +44,13 @@ NO:
 a=b+c
 spam( ham[ 1 ], { eggs: 2 } )
 
-6. Comments
+__5. Comments__
 * Start comments with # and a single space.
 
 YES:
 x = x + 1                 # Increment x
 
-7. Naming
+__6. Naming__
 * Function and variable names should be lowercase, with underscores between the words as necessary to improve readability.
 * Use descriptive variable names.
 
