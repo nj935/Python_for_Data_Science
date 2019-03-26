@@ -66,11 +66,13 @@ __6. Naming__
 * Function and variable names should be lowercase, with underscores between the words as necessary to improve readability.
 * Use descriptive variable names.
 
+<pre>
 YES:
-
 mean_trip_time = []
+</pre>
 
+<pre>
 PROBABLY NOT:
-
 mtt = []
+</pre>
 
