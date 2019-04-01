@@ -9,7 +9,7 @@ Please work through the [Learn The Basics](http://learnpython.org/) section on L
 
 Optional:
 * chapters 1-2 of [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
-* short tutorial on [markdown](markdown tutorial).
+* short tutorial on [markdown](https://commonmark.org/help/).
 
 ### In class: code demo.
 We'll run through the Jupyter Notebook.
