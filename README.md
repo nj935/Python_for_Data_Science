@@ -12,15 +12,16 @@ __Participant outcomes__: With no coding knowledge before the course, participan
 
 #Schedule#
 The course meets on Thursdays at 3.30pm - 5.00pm.
-|Date and venue| Topic|
+
+|Date and venue | Topic|
 |----|----|
-|April 4: MC7-860|  Python syntax and data structures, intro to control flow.|
+|April 4: MC7-860 |  Python syntax and data structures, intro to control flow.|
 |April 11 | no class due to Spring Meetings |
-|April 18: MC C1-100|Further data structures, control flow, file handling.|
-|April 25: MC 7-860|Intermediate Python, intro to Pandas and Numpy.|
-|May 2: MC 7-860|Data wrangling and analysis.|
-|May 9: MC C1-200|Data wrangling and analysis II.|
-|May 16: MC C1-100|APIs and geospatial data.|
-|May 23: MC C1-100|Intro to machine learning.|
-|May 30: MC C1-200|Flexible teaching session.|
+|April 18: MC C1-100 | Further data structures, control flow, file handling.|
+|April 25: MC 7-860 | Intermediate Python, intro to Pandas and Numpy.|
+|May 2: MC 7-860 | Data wrangling and analysis.|
+|May 9: MC C1-200 | Data wrangling and analysis II.|
+|May 16: MC C1-100 | APIs and geospatial data.|
+|May 23: MC C1-100 | Intro to machine learning.|
+|May 30: MC C1-200 | Flexible teaching session.|
 
